@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Devon (@devonai28) 👋
 
-<!--
-**devonai28/devonai28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems programmer based in Seoul. I like poking at low-level bits, writing Rust, and seeing how fast things can run before the OS complains.
 
-Here are some ideas to get you started:
+### What I'm into
+- Building small runtimes and memory-efficient CLI tools with **Rust** and **C**
+- Experimenting with **WebAssembly (WASM)** outside browser environments (WASI, Wasmtime)
+- Linux kernel tracing, eBPF, and systems performance profiling
+- Breaking and fixing my local Linux setup
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Daily stack
+- **Languages:** Rust, C, Bash, Python
+- **Systems:** Linux, POSIX APIs, WASI
+- **Tools:** Git, Neovim, GDB, Valgrind, perf
+
+### Reach out
+- Email: `devonai28@proton.me`
+- Matrix: `@devonai28:matrix.org`
